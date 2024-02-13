@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d82d43a4-b65f-48ce-b6ad-25982ad98312" name="Changes" comment="Discord bot for converting currencies made in Python">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d82d43a4-b65f-48ce-b6ad-25982ad98312" name="Changes" comment="Discord bot for converting currencies made in Python" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +118,7 @@
       <workItem from="1707418077481" duration="2874000" />
       <workItem from="1707428783196" duration="1724000" />
       <workItem from="1707481645828" duration="2176000" />
-      <workItem from="1707822184442" duration="5615000" />
+      <workItem from="1707822184442" duration="5904000" />
     </task>
     <task id="LOCAL-00001" summary="Discord bot for converting currencies made in Python">
       <option name="closed" value="true" />
@@ -171,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707831394877</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Discord bot for converting currencies made in Python">
+      <option name="closed" value="true" />
+      <created>1707831762206</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707831762206</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +187,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Discord bot for converting currencies made in Python" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Convercek$main.coverage" NAME="main Coverage Results" MODIFIED="1707831656516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Convercek$main.coverage" NAME="main Coverage Results" MODIFIED="1707831722310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
