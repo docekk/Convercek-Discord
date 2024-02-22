@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d82d43a4-b65f-48ce-b6ad-25982ad98312" name="Changes" comment="Discord bot for converting currencies made in Python" />
+    <list default="true" id="d82d43a4-b65f-48ce-b6ad-25982ad98312" name="Changes" comment="Discord bot for converting currencies made in Python">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,12 +36,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;docekk&quot;,
+      &quot;author&quot;: &quot;docekk&quot;
+    }
+  ],
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;docekk&quot;
+    &quot;assignee&quot;: &quot;docekk&quot;,
+    &quot;author&quot;: &quot;docekk&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="docekk" />
+        <option name="repository" value="Convercek-Discord" />
+      </RepoCoordinatesHolder>
+    </option>
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="9aec481f-ccd6-428e-aefb-30661392ad0b" />
@@ -119,6 +135,9 @@
       <workItem from="1707428783196" duration="1724000" />
       <workItem from="1707481645828" duration="2176000" />
       <workItem from="1707822184442" duration="5904000" />
+      <workItem from="1707832195129" duration="1077000" />
+      <workItem from="1707938488778" duration="97000" />
+      <workItem from="1708593719140" duration="104000" />
     </task>
     <task id="LOCAL-00001" summary="Discord bot for converting currencies made in Python">
       <option name="closed" value="true" />
